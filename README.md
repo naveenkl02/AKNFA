@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to AKNFA OFFICIAL WEBSITE</h1>
 <h3 align="center">ALL KERALA NEYMAR FANS ASSOCIATION</h3>
 <div align="center">
-  <img border-radius: 15px src="kallanbot.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="AKNFA.jpg" width="170" height="170"/>
   <p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkl02&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkl02" /> </p>
 
