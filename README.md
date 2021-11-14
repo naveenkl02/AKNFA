@@ -9,7 +9,7 @@
 
 - 🤝 TO JOIN OUR OFFICIAL WHATSAPP GROUP [AKNFA](919961612845@s.whatsapp.net)
 
-- 📫 How to reach me **919387312346@s.whatsapp.net, 919961612845@s.whatsapp.net**
+- 📫 How to reach us **919387312346@s.whatsapp.net, 919961612845@s.whatsapp.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
