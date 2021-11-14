@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to AKNFA OFFICIAL WEBSITE</h1>
+<h1 align="center">Welcome to AKNFA OFFICIAL WEBSITE</h1>
 <h3 align="center">ALL KERALA NEYMAR FANS ASSOCIATION</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkl02&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkl02" /> </p>
