@@ -18,6 +18,7 @@
 <a href="https://twitter.com/aknfa_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aknfa_official" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aknfa_official-172210318246688/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aknfa_official-172210318246688/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/aknfa_official?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/aknfa_official?utm_medium=copy_link" height="30" width="40" /></a>
+<a href="https://chat.whatsapp.com/DljK9pjeHiPAlj5RFqLE5Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://chat.whatsapp.com/DljK9pjeHiPAlj5RFqLE5Q" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkl02&show_icons=true&locale=en" alt="naveenkl02" /></p>
