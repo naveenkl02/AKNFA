@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkl02&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkl02" /> </p>
 
-- 🌱 OUR SOCIAL MEDIA PLATFORM AVAILABLE IN **INSTAGRAM,FACEBOOK,WHATSAPP,TWITTER, TELEGRAM**
+- 🌱 OUR SOCIAL MEDIA PLATFORM AVAILABLE IN **INSTAGRAM, FACEBOOK, WHATSAPP, TWITTER, TELEGRAM**
 
 - 👯 We are looking for EDITORS on [AKNFA EDITORS WING](919387312346@s.whatsapp.net)
 
